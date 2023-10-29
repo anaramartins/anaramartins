@@ -11,7 +11,7 @@
 - ⚡ Fun fact: Amo repassar para outras pessoas o que aprendi, acredito que o conhecimento deve ser compartilhado!!! E que todos são capazes de aprebder, basta descobrir nosso próprio ritmo!!!!!
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anara-carolina&layout=pie)](https://github.com/Anara-carolina/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anaramartins&layout=pie)](https://github.com/anaramartins/github-readme-stats)
 
 
 <div style="display: inline_block"><br>
